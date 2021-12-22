@@ -1,0 +1,61 @@
+﻿14:39:51=>開始初始檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\MachineInitialFile_19601.txt'。
+檔案名稱: 'D:\Resource\MachineInitialFile_19601.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path)
+   於 _19_601.FormOp1.Initialize() 於 D:\C#\19-601\19-601\FormOp1.cs: 行 191
+
+14:39:57=>開始異常訊息檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\ErrorMessage_19601.txt'。
+檔案名稱: 'D:\Resource\ErrorMessage_19601.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path, Encoding encoding)
+   於 _19_601.FormOp1.Initialize() 於 D:\C#\19-601\19-601\FormOp1.cs: 行 238
+
+14:39:59=>開始初始檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\MachineInitialFile_19601.txt'。
+檔案名稱: 'D:\Resource\MachineInitialFile_19601.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path)
+   於 _19_601.FormStart.Initialize() 於 D:\C#\19-601\19-601\FormStart.cs: 行 39
+
+14:40:29=>開始初始檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\MachineInitialFile_19601.txt'。
+檔案名稱: 'D:\Resource\MachineInitialFile_19601.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path)
+   於 _19_601.FormOp1.Initialize() 於 D:\C#\19-601\19-601\FormOp1.cs: 行 191
+
+14:40:36=>開始初始檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\MachineInitialFile_19601.txt'。
+檔案名稱: 'D:\Resource\MachineInitialFile_19601.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path)
+   於 _19_601.FormStart.Initialize() 於 D:\C#\19-601\19-601\FormStart.cs: 行 39
+
+16:09:25=>開始初始檔案時發生異常:System.FormatException: 輸入字串格式不正確。
+   於 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   於 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   於 System.Convert.ToInt32(String value)
+   於 _19_601.FormStart.Initialize() 於 D:\C#\19-601\19-601\FormStart.cs: 行 49
+

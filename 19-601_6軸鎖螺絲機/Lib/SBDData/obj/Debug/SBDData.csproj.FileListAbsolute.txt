@@ -1,0 +1,9 @@
+E:\C#\19-502\SBDData\bin\Debug\SBDData.dll
+E:\C#\19-502\SBDData\bin\Debug\SBDData.pdb
+E:\C#\19-502\SBDData\obj\Debug\SBDData.csprojResolveAssemblyReference.cache
+E:\C#\19-502\SBDData\obj\Debug\SBDData.dll
+E:\C#\19-502\SBDData\obj\Debug\SBDData.pdb
+D:\C#\19-502\SBDData\bin\Debug\SBDData.dll
+D:\C#\19-502\SBDData\bin\Debug\SBDData.pdb
+D:\C#\19-502\SBDData\obj\Debug\SBDData.dll
+D:\C#\19-502\SBDData\obj\Debug\SBDData.pdb

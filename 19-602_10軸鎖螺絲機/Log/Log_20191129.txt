@@ -1,0 +1,8 @@
+﻿10:30:30=>開始初始檔案時發生異常:System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 _19_602.FormOp1.ChangeLanglue()
+   於 _19_602.FormOp1.Initialize()
+
+10:35:19=>開始初始檔案時發生異常:System.IndexOutOfRangeException: 索引在陣列的界限之外。
+   於 _19_602.FormOp1.ChangeLanglue()
+   於 _19_602.FormOp1.Initialize()
+

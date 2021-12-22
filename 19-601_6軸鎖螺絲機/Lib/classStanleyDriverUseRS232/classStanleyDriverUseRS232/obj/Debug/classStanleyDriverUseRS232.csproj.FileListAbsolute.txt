@@ -1,0 +1,12 @@
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\obj\Debug\classStanleyDriverUseRS232.csprojResolveAssemblyReference.cache
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\classStanleyDriverUseRS232.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\classStanleyDriverUseRS232.pdb
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\ClosedXML.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\ExcelNumberFormat.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\FastMember.Signed.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\ClosedXML.xml
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\bin\Debug\ExcelNumberFormat.xml
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\obj\Debug\classStanleyDriverUseRS232.dll
+C:\Users\elecjack\OneDrive\文件\C#\classStanleyDriverUseRS232\classStanleyDriverUseRS232\obj\Debug\classStanleyDriverUseRS232.pdb

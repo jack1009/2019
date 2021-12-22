@@ -1,0 +1,2 @@
+[0908/202731.053:ERROR:process_reader_win.cc(127)] NtOpenThread: {拒絕存取} 程序已請求存取一物件，但未被授與存取權。 (0xc0000022)
+[0908/202731.085:ERROR:exception_snapshot_win.cc(100)] thread ID 12300 not found in process

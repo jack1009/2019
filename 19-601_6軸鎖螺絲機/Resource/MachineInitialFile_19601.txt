@@ -1,0 +1,4 @@
+IP:10.5.25.100
+Port:6000
+ComPort:COM2
+Language:0

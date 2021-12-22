@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-601", "19-601\19-601.csproj", "{3E691A35-96D4-465B-B016-77BD22187D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLog", "..\Lib\MachineLog\MachineLog.csproj", "{2B8311DF-8301-43C0-8DD7-115AB2A6B329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitsubishiPLC", "..\Lib\MitsubishiPLC\MitsubishiPLC\MitsubishiPLC.csproj", "{10978CE0-0660-4A13-91FF-94649700F3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E691A35-96D4-465B-B016-77BD22187D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E691A35-96D4-465B-B016-77BD22187D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E691A35-96D4-465B-B016-77BD22187D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E691A35-96D4-465B-B016-77BD22187D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8311DF-8301-43C0-8DD7-115AB2A6B329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8311DF-8301-43C0-8DD7-115AB2A6B329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8311DF-8301-43C0-8DD7-115AB2A6B329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8311DF-8301-43C0-8DD7-115AB2A6B329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10978CE0-0660-4A13-91FF-94649700F3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10978CE0-0660-4A13-91FF-94649700F3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10978CE0-0660-4A13-91FF-94649700F3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10978CE0-0660-4A13-91FF-94649700F3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

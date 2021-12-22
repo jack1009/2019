@@ -1,0 +1,688 @@
+﻿08:54:07=>01RR0010C6
+08:54:08=>1超時
+08:54:08=>01RR0010C6
+08:54:08=>1完成01D00000
+08:54:09=>02RR0010C7
+08:54:09=>2完成02D00000
+08:54:09=>03RR0010C8
+08:54:09=>3完成03D00000
+08:54:09=>04RR0010C9
+08:54:10=>4完成04D00000
+08:54:10=>05RR0010CA
+08:54:10=>5完成05D00000
+08:54:10=>06RR0010CB
+08:54:10=>6完成06D00000
+08:54:31=>01RR0010C6
+08:54:31=>1完成 02729 O
+08:54:31=>02RR0010C7
+08:54:31=>2完成
+ 027SS&&L\LN????z??H? 02729 O
+08:54:32=>03RR0010C8
+08:54:32=>3完成
+ 02720"* $" '2292{0-O
+08:54:32=>04RR0010C9
+08:54:32=>4完成
+ 02????{?[#?? 02800 O
+08:54:32=>05RR0010CA
+08:54:32=>5完成
+ 028000??0008?0 O
+08:54:33=>06RR0010CB
+08:54:33=>6完成
+ 02769 O
+08:55:04=>01RR0010C6
+08:55:04=>1完成
+ 02769 O
+08:55:05=>02RR0010C7
+08:55:05=>2完成
+ 02769 O
+08:55:05=>03RR0010C8
+08:55:05=>3完成
+ 03104 O
+08:55:06=>04RR0010C9
+08:55:06=>4完成
+ 03104 O
+08:55:06=>05RR0010CA
+08:55:06=>5完成
+ 03104 O
+08:55:06=>06RR0010CB
+08:55:07=>6完成
+02D02729
+08:57:00=>01RR0010C6
+08:57:00=>1完成03D02880
+08:57:00=>02RR0010C7
+08:57:00=>2完成04D02729
+08:57:00=>03RR0010C8
+08:57:01=>3完成05D02769
+08:57:01=>04RR0010C9
+08:57:01=>4完成06D03104
+08:57:01=>05RR0010CA
+08:57:01=>5完成 02811 O
+08:57:02=>06RR0010CB
+08:57:02=>6完成
+ 028?S&&LLLN????z??H? 02691 O
+08:57:23=>01RR0010C6
+08:57:23=>1完成
+ 0269??_o&/???s?NL?j
+RH$&&NN??oo&????'??H???????'??H?????z??H? 02783 O
+08:57:23=>02RR0010C7
+08:57:23=>2完成
+ 02783 O
+08:57:24=>03RR0010C8
+08:57:24=>3完成
+ 02783 O
+08:57:24=>04RR0010C9
+08:57:24=>4完成
+ 03111 O
+08:57:25=>05RR0010CA
+08:57:25=>5完成
+ 03111 O
+08:57:25=>06RR0010CB
+08:57:25=>6完成
+ 03111 O
+08:58:12=>01RR0010C6
+08:58:12=>1完成
+02D02691
+08:58:13=>02RR0010C7
+08:58:13=>2完成03D02882
+08:58:13=>03RR0010C8
+08:58:13=>3完成04D02682
+08:58:13=>04RR0010C9
+08:58:14=>4完成05D02783
+08:58:14=>05RR0010CA
+08:58:14=>5完成06D03111
+08:58:14=>06RR0010CB
+08:58:14=>6完成 02727 O
+08:58:37=>01RR0010C6
+08:58:37=>1完成
+ 027?*??????427 O
+08:58:37=>02RR0010C7
+08:58:37=>2完成
+ 02920 O
+08:58:38=>03RR0010C8
+08:58:38=>3完成
+????:r^"?I???2z?M??HL??87 O
+08:58:38=>04RR0010C9
+08:58:38=>4完成
+ 02794 O
+08:58:38=>05RR0010CA
+08:58:39=>5完成
+ 027=??O???L??794 O
+08:58:39=>06RR0010CB
+08:58:39=>6完成
+ 031ql???Jz???????=?7)????????=?7)O
+08:59:21=>01RR0010C6
+08:59:21=>1完成
+02D02727
+08:59:21=>02RR0010C7
+08:59:21=>2完成03D02920
+08:59:22=>03RR0010C8
+08:59:22=>3完成04D02687
+08:59:22=>04RR0010C9
+08:59:22=>4完成05D02813
+08:59:22=>05RR0010CA
+08:59:23=>5完成06D03117
+08:59:23=>06RR0010CB
+08:59:23=>6完成 02685 O
+08:59:45=>01RR0010C6
+08:59:45=>1完成
+ 026?fU?vTV85 O
+08:59:46=>02RR0010C7
+08:59:46=>2完成
+ 02768 O
+08:59:46=>03RR0010C8
+08:59:46=>3完成
+ 0276??O?r?L??768 O
+08:59:47=>04RR0010C9
+08:59:47=>4完成
+ 03071 O
+08:59:47=>05RR0010CA
+08:59:47=>5完成
+ 03071 O
+08:59:47=>06RR0010CB
+08:59:48=>6完成
+ 03071 {8=? O
+09:00:38=>01RR0010C6
+09:00:39=>1完成
+ 02897 O?????2z?=?O?????z??H?&'?LHj
+RH? 02758 O
+09:00:39=>02RR0010C7
+09:00:39=>2完成
+ 02758 O
+09:00:39=>03RR0010C8
+09:00:39=>3完成
+ 02758 O
+09:00:40=>04RR0010C9
+09:00:40=>4完成
+02D02685
+09:00:40=>05RR0010CA
+09:00:40=>5完成03D02897
+09:00:41=>06RR0010CB
+09:00:41=>6完成04D02758
+09:01:10=>01RR0010C6
+09:01:10=>1完成05D02768
+09:01:10=>02RR0010C7
+09:01:10=>2完成06D03071
+09:01:10=>03RR0010C8
+09:01:11=>3完成 02775 O
+09:01:11=>04RR0010C9
+09:01:11=>4完成
+ 027?"???????S?j
+RH?02E04002
+09:01:11=>05RR0010CA
+09:01:11=>5完成 02777 O
+09:01:12=>06RR0010CB
+09:01:12=>6完成
+ 027?:???????????j
+RH? ??>???n??YK?&?&?j
+RH?&?&?j
+RH? 02752 O
+09:01:33=>01RR0010C6
+09:01:33=>1完成
+ 02752 O
+09:01:33=>02RR0010C7
+09:01:33=>2完成
+ 02752 O
+09:01:34=>03RR0010C8
+09:01:34=>3完成
+ 02876 O
+09:01:34=>04RR0010C9
+09:01:34=>4完成
+ 02876 O
+09:01:35=>05RR0010CA
+09:01:35=>5完成
+ 02876 O
+09:01:35=>06RR0010CB
+09:01:35=>6完成
+02D02752
+09:02:30=>01RR0010C6
+09:02:30=>1完成03D02876
+09:02:30=>02RR0010C7
+09:02:30=>2完成04D02670
+09:02:31=>03RR0010C8
+09:02:31=>3完成05D02775
+09:02:31=>04RR0010C9
+09:02:31=>4完成06D03121
+09:02:32=>05RR0010CA
+09:02:32=>5完成 02724 O
+09:02:32=>06RR0010CB
+09:02:32=>6完成
+ 027
+?*?????:5M&MHj
+RH? 02789 O
+09:03:00=>01RR0010C6
+09:03:00=>1完成
+ 0278???????l???????z??H???&?j
+RH? 02777 O
+09:03:00=>02RR0010C7
+09:03:00=>2完成
+ 02777 O
+09:03:00=>03RR0010C8
+09:03:01=>3完成
+ 02777 O
+09:03:01=>04RR0010C9
+09:03:01=>4完成
+ 03153 O
+09:03:01=>05RR0010CA
+09:03:01=>5完成
+ 033?3??%??????????%???H?&?NM?j
+RH?02D02724
+09:03:02=>06RR0010CB
+09:03:02=>6完成03D02894
+09:03:02=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:04=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:05=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:06=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:07=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:09=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:10=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:11=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:13=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:14=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:15=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:17=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:18=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:19=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:20=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:22=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:23=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:24=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:26=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:27=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:28=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:29=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:31=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:32=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:33=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:35=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:36=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:37=>System.FormatException: 輸入字串格式不正確。
+   於 System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   於 System.Double.Parse(String s)
+   於 _19_601.FormOp1.setData(csTorqueValue _data)
+09:03:49=>01RR0010C6
+09:03:49=>1完成04D02724
+09:03:49=>02RR0010C7
+09:03:49=>2完成05D02789
+09:03:50=>03RR0010C8
+09:03:50=>3完成06D03153
+09:03:50=>04RR0010C9
+09:03:50=>4完成 02703 O
+09:03:51=>05RR0010CA
+09:03:51=>5完成
+ 027 3*??3?>03 O
+09:03:51=>06RR0010CB
+09:03:51=>6完成
+ 02857 O
+09:04:19=>01RR0010C6
+09:04:19=>1完成
+ 02857?_o&/??7??M?j
+RH? 02926 O
+09:04:19=>02RR0010C7
+09:04:19=>2完成
+ 029????????-?79????????-?jR?????z??H? 02769 O
+09:04:20=>03RR0010C8
+09:04:20=>3完成
+ 02769 O
+09:04:20=>04RR0010C9
+09:04:20=>4完成
+ 02769 O
+09:04:20=>05RR0010CA
+09:04:20=>5完成
+ 02766 O
+09:04:21=>06RR0010CB
+09:04:21=>6完成
+ 02766 O
+09:05:57=>01RR0010C6
+09:05:57=>1完成
+ 02766 O
+09:05:57=>02RR0010C7
+09:05:58=>2完成
+02D02703
+09:05:58=>03RR0010C8
+09:05:58=>3完成03D02926
+09:05:58=>04RR0010C9
+09:05:58=>4完成04D02769
+09:05:59=>05RR0010CA
+09:05:59=>5完成05D02766
+09:05:59=>06RR0010CB
+09:05:59=>6完成06D03090
+16:41:45=>01RR0010C6
+16:41:45=>1超時
+16:41:45=>01RR0010C6
+16:41:46=>1完成01D02829
+16:41:46=>02RR0010C7
+16:41:46=>2完成02D02684
+16:41:46=>03RR0010C8
+16:41:47=>3完成03D02874
+16:41:47=>04RR0010C9
+16:41:47=>4完成04D02699
+16:41:47=>05RR0010CA
+16:41:47=>5完成05D02794
+16:41:48=>06RR0010CB
+16:41:48=>6完成06D03161
+16:43:39=>01RR0010C6
+16:43:39=>1完成 0277=0oOk-*02719 )K	)
+
+ 0219 )K	)
+
+?H??S&?j
+RH? 02825 O
+16:43:39=>02RR0010C7
+16:43:39=>2完成
+ 02825&?-????????z??H? 02886 O
+16:43:40=>03RR0010C8
+16:43:40=>3完成
+ 02886 O
+16:43:40=>04RR0010C9
+16:43:40=>4完成
+ 02886 O
+16:43:40=>05RR0010CA
+16:43:40=>5完成
+ 03088 O
+16:43:41=>06RR0010CB
+16:43:41=>6完成
+ 03088 O
+16:46:14=>01RR0010C6
+16:46:14=>1完成
+ 03088 O
+16:46:15=>02RR0010C7
+16:46:15=>2完成
+02D02716
+16:46:15=>03RR0010C8
+16:46:15=>3完成03D02886
+16:46:15=>04RR0010C9
+16:46:15=>4完成04D02705
+16:46:16=>05RR0010CA
+16:46:16=>5完成05D02790
+16:46:16=>06RR0010CB
+16:46:16=>6完成06D03088
+16:48:33=>01RR0010C6
+16:48:33=>1完成 02731 O
+16:48:33=>02RR0010C7
+16:48:33=>2完成
+ 027?s&&LLLOL???z??H? 02867 OK????????7???r??????7???r?S&&Hj
+RH? 02781 O
+16:48:33=>03RR0010C8
+16:48:34=>3完成
+ 02781 O
+16:48:34=>04RR0010C9
+16:48:34=>4完成
+ 02781 O
+16:48:34=>05RR0010CA
+16:48:34=>5完成
+ 02769 O
+16:48:35=>06RR0010CB
+16:48:35=>6完成
+ 02769 O
+16:49:21=>01RR0010C6
+16:49:21=>1完成
+ 02769 O
+16:49:21=>02RR0010C7
+16:49:21=>2完成
+ 03123 O
+16:49:21=>03RR0010C8
+16:49:22=>3完成
+ 03123 O
+16:49:22=>04RR0010C9
+16:49:22=>4完成
+ 03123 O
+16:49:22=>05RR0010CA
+16:49:22=>5完成
+02D02731
+16:49:23=>06RR0010CB
+16:49:23=>6完成03D02867
+17:59:26=>01RR0010C6
+17:59:26=>1完成04D02712
+17:59:27=>02RR0010C7
+17:59:27=>2完成05D02769
+17:59:27=>03RR0010C8
+17:59:27=>3完成06D03123
+17:59:27=>04RR0010C9
+17:59:28=>4完成 02703 O
+17:59:28=>05RR0010CA
+17:59:28=>5完成
+ 027 wS
+&?L?????z??H? 02901 O
+17:59:28=>06RR0010CB
+17:59:28=>6完成?????j( B 02?6??~mjGkZL??95 O
+18:00:08=>01RR0010C6
+18:00:08=>1完成
+ 02798 O
+18:00:08=>02RR0010C7
+18:00:08=>2完成
+ 02798 O
+18:00:08=>03RR0010C8
+18:00:09=>3完成
+ 02798 O
+18:00:09=>04RR0010C9
+18:00:09=>4完成
+ 02861 O
+18:00:09=>05RR0010CA
+18:00:09=>5完成
+ 02861 O
+18:00:10=>06RR0010CB
+18:00:10=>6完成
+ 02861 O
+18:56:26=>01RR0010C6
+18:56:26=>1完成
+ 03146 O
+18:56:26=>02RR0010C7
+18:56:26=>2完成
+ 03146 O
+18:56:27=>03RR0010C8
+18:56:27=>3完成
+ 03146 O
+18:56:27=>04RR0010C9
+18:56:27=>4完成
+02D02695
+18:56:27=>05RR0010CA
+18:56:28=>5完成03D02901
+18:56:28=>06RR0010CB
+18:56:28=>6完成04D02703
+18:57:38=>01RR0010C6
+18:57:38=>1完成05D02861
+18:57:39=>02RR0010C7
+18:57:39=>2完成06D03146
+18:57:39=>03RR0010C8
+18:57:39=>3完成 02880 O
+18:57:40=>04RR0010C9
+18:57:40=>4完成
+ 028
+?Ta???????80 O
+18:57:40=>05RR0010CA
+18:57:40=>5完成
+02E00001
+18:57:40=>06RR0010CB
+18:57:40=>6完成 02684 O
+18:58:16=>01RR0010C6
+18:58:16=>1完成
+ 026 ;??T484 O
+18:58:16=>02RR0010C7
+18:58:16=>2完成
+ 02762 O
+18:58:17=>03RR0010C8
+18:58:17=>3完成
+ 027v~?_OlM@B?C?oK M
+	????j
+RH?&??j
+RH? 02876 O
+18:58:17=>04RR0010C9
+18:58:17=>4完成
+ 02876 O
+18:58:18=>05RR0010CA
+18:58:18=>5完成
+ 02876 O
+18:58:18=>06RR0010CB
+18:58:18=>6完成
+ 03079 O
+18:59:18=>01RR0010C6
+18:59:18=>1完成
+ 03079 O
+18:59:18=>02RR0010C7
+18:59:19=>2完成
+ 03079 O
+18:59:19=>03RR0010C8
+18:59:19=>3完成
+02D02684
+18:59:19=>04RR0010C9
+18:59:19=>4完成03D02880
+18:59:20=>05RR0010CA
+18:59:20=>5完成04D02685
+18:59:20=>06RR0010CB
+18:59:20=>6完成05D02876
+18:59:52=>01RR0010C6
+18:59:52=>1完成06D03079
+18:59:52=>02RR0010C7
+18:59:52=>2完成 02674 O
+18:59:53=>03RR0010C8
+18:59:53=>3完成
+ 026sSSS?j~?j
+RH? pz_?=-?)???????=-?
+18:59:53=>04RR0010C9
+18:59:53=>4完成 @?&("j)	JB??12762 O
+18:59:53=>05RR0010CA
+18:59:53=>5完成
+ 02762 ??????z??H?&'S'?j
+RH?&'S'?j
+RH? 03090 O
+18:59:54=>06RR0010CB
+18:59:54=>6完成
+ 03090 O
+19:00:42=>01RR0010C6
+19:00:42=>1完成
+ 03090 O
+19:00:43=>02RR0010C7
+19:00:43=>2完成
+02D02674
+19:00:43=>03RR0010C8
+19:00:43=>3完成03D02869
+19:00:43=>04RR0010C9
+19:00:44=>4完成04D02712
+19:00:44=>05RR0010CA
+19:00:44=>5完成05D02762
+19:00:44=>06RR0010CB
+19:00:44=>6完成06D03090
+19:01:08=>01RR0010C6
+19:01:08=>1完成 02676 O
+19:01:08=>02RR0010C7
+19:01:09=>2完成
+ 026?8?a??au???z??H? 02886 O
+19:01:09=>03RR0010C8
+19:01:09=>3完成
+ 028<??O???L??<86 O
+19:01:09=>04RR0010C9
+19:01:09=>4完成
+ 02781 O
+19:01:10=>05RR0010CA
+19:01:10=>5完成
+ 02781 O
+19:01:10=>06RR0010CB
+19:01:10=>6完成
+ 02781 O
+19:03:43=>01RR0010C6
+19:03:44=>1完成
+ 027?????"?%z?7?????"?%z?7?????"??jR? 03159 O
+19:03:44=>02RR0010C7
+19:03:44=>2完成
+ 03159 O
+19:03:44=>03RR0010C8
+19:03:44=>3完成
+ 03159 O
+19:03:45=>04RR0010C9
+19:03:45=>4完成
+02D02676
+19:03:45=>05RR0010CA
+19:03:45=>5完成03D02886
+19:03:46=>06RR0010CB
+19:03:46=>6完成04D02706
+19:04:12=>01RR0010C6
+19:04:12=>1完成05D02773
+19:04:12=>02RR0010C7
+19:04:12=>2完成06D03159
+19:04:13=>03RR0010C8
+19:04:13=>3完成 02871 O
+19:04:13=>04RR0010C9
+19:04:13=>4完成
+ 028N?UN??p1;RO??z??H? 02712 O
+19:04:14=>05RR0010CA
+19:04:14=>5完成
+ 0279?]z:?x99????z??H? 02810 O
+19:04:14=>06RR0010CB
+19:04:14=>6完成
+ 02810 O
+19:05:12=>01RR0010C6
+19:05:12=>1完成
+ 02810 O
+19:05:12=>02RR0010C7
+19:05:12=>2完成
+ 02804 O
+19:05:12=>03RR0010C8
+19:05:12=>3完成
+ 02804 O
+19:05:13=>04RR0010C9
+19:05:13=>4完成
+ 02804 O
+19:05:13=>05RR0010CA
+19:05:13=>5完成
+ 02754 O
+19:05:14=>06RR0010CB
+19:05:14=>6完成
+ 02754 O
+19:05:37=>01RR0010C6
+19:05:38=>1完成
+ 02754 O
+19:05:38=>02RR0010C7
+19:05:38=>2完成
+ 03153 O
+19:05:38=>03RR0010C8
+19:05:38=>3完成
+ 03153 O
+19:05:39=>04RR0010C9
+19:05:39=>4完成
+ 03153 O
+19:05:39=>05RR0010CA
+19:05:39=>5完成
+02D02712
+19:05:40=>06RR0010CB
+19:05:40=>6完成03D02871

@@ -1,0 +1,38 @@
+E:\C#\19-502\MachineLog\bin\Debug\MachineLog.dll
+E:\C#\19-502\MachineLog\bin\Debug\MachineLog.pdb
+E:\C#\19-502\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+E:\C#\19-502\MachineLog\obj\Debug\MachineLog.dll
+E:\C#\19-502\MachineLog\obj\Debug\MachineLog.pdb
+E:\C#\19-501\MachineLog\bin\Debug\MachineLog.dll
+E:\C#\19-501\MachineLog\bin\Debug\MachineLog.pdb
+E:\C#\19-501\MachineLog\obj\Debug\MachineLog.dll
+E:\C#\19-501\MachineLog\obj\Debug\MachineLog.pdb
+E:\C#\19-501\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+F:\C#\19-502\MachineLog\bin\Debug\MachineLog.dll
+F:\C#\19-502\MachineLog\bin\Debug\MachineLog.pdb
+F:\C#\19-502\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+F:\C#\19-502\MachineLog\obj\Debug\MachineLog.dll
+F:\C#\19-502\MachineLog\obj\Debug\MachineLog.pdb
+D:\軟體\C#\19-502\MachineLog\bin\Debug\MachineLog.dll
+D:\軟體\C#\19-502\MachineLog\bin\Debug\MachineLog.pdb
+D:\軟體\C#\19-502\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+D:\軟體\C#\19-502\MachineLog\obj\Debug\MachineLog.dll
+D:\軟體\C#\19-502\MachineLog\obj\Debug\MachineLog.pdb
+D:\C#\19-502\MachineLog\bin\Debug\MachineLog.dll
+D:\C#\19-502\MachineLog\bin\Debug\MachineLog.pdb
+D:\C#\19-502\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+D:\C#\19-502\MachineLog\obj\Debug\MachineLog.dll
+D:\C#\19-502\MachineLog\obj\Debug\MachineLog.pdb
+D:\C#\Lib\MachineLog\bin\Debug\MachineLog.dll
+D:\C#\Lib\MachineLog\bin\Debug\MachineLog.pdb
+D:\C#\Lib\MachineLog\obj\Debug\MachineLog.dll
+D:\C#\Lib\MachineLog\obj\Debug\MachineLog.pdb
+\\vmware-host\Shared Folders\D\C#\Lib\MachineLog\bin\Debug\MachineLog.dll
+\\vmware-host\Shared Folders\D\C#\Lib\MachineLog\bin\Debug\MachineLog.pdb
+\\vmware-host\Shared Folders\D\C#\Lib\MachineLog\obj\Debug\MachineLog.dll
+\\vmware-host\Shared Folders\D\C#\Lib\MachineLog\obj\Debug\MachineLog.pdb
+D:\Lib\MachineLog\bin\Debug\MachineLog.dll
+D:\Lib\MachineLog\bin\Debug\MachineLog.pdb
+D:\Lib\MachineLog\obj\Debug\MachineLog.csprojResolveAssemblyReference.cache
+D:\Lib\MachineLog\obj\Debug\MachineLog.dll
+D:\Lib\MachineLog\obj\Debug\MachineLog.pdb

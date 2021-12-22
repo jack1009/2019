@@ -1,0 +1,322 @@
+﻿15:54:41=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 C:\Users\Administrator\Documents\19-602\19-601\FormOp1.cs: 行 276
+   於 _19_602.FormOp1.Initialize() 於 C:\Users\Administrator\Documents\19-602\19-601\FormOp1.cs: 行 210
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///C:/Users/Administrator/Documents/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: C:\Users\Administrator\Documents\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///C:/Users/Administrator/Documents/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+15:55:41=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 C:\Users\Administrator\Documents\19-602\19-601\FormOp1.cs: 行 276
+   於 _19_602.FormOp1.Initialize() 於 C:\Users\Administrator\Documents\19-602\19-601\FormOp1.cs: 行 210
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///C:/Users/Administrator/Documents/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: C:\Users\Administrator\Documents\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///C:/Users/Administrator/Documents/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+16:46:20=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+16:48:01=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+16:53:18=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+16:58:09=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:00:57=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:09:40=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:10:17=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:11:12=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:12:49=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:13:56=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:15:01=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+
+17:16:06=>開始初始檔案時發生異常:System.IO.FileLoadException: 無法載入檔案或組件 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67' 或其相依性的其中之一。 找到的組件資訊清單定義與組件參考不符。 (發生例外狀況於 HRESULT: 0x80131040)
+檔案名稱: 'HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67'
+   於 MitsubishiPLC.csFX5..ctor(String _plcIP, Int32 _plcPort)
+   於 _19_602.FormOp1.CreatPLCConnect() 於 F:\19-602\19-601\FormOp1.cs: 行 283
+   於 _19_602.FormOp1.Initialize() 於 F:\19-602\19-601\FormOp1.cs: 行 217
+
+=== 繫結前狀態資訊 ===
+記錄: DisplayName = HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+ (Fully-specified)
+記錄: Appbase = file:///F:/19-602/19-601/bin/Debug/
+記錄: 初始 PrivatePath = NULL
+正在呼叫組件 : MitsubishiPLC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null。
+===
+記錄: 此繫結在 default 載入內容中開始。
+記錄: 正在使用應用程式組態檔: F:\19-602\19-601\bin\Debug\19-602.exe.config
+記錄: 使用主機組態檔: 
+記錄: 從 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 使用電腦組態檔。
+記錄: 原則後參考: HslCommunication, Version=8.1.3.0, Culture=neutral, PublicKeyToken=cdb2261fa039ed67
+記錄: 正在嘗試從新的 URL file:///F:/19-602/19-601/bin/Debug/HslCommunication.DLL 下載。
+警告: 比較組件名稱發現不符項目: 次要版本
+錯誤: 無法完成組件的安裝 (hr = 0x80131040)。已終止探查。
+
+

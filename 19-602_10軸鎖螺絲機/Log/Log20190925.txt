@@ -1,0 +1,11 @@
+﻿15:58:00=>開始異常訊息檔案時發生異常:System.IO.FileNotFoundException: 找不到檔案 'D:\Resource\ErrorMessage.txt'。
+檔案名稱: 'D:\Resource\ErrorMessage.txt'
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   於 System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   於 System.IO.File.ReadAllLines(String path, Encoding encoding)
+   於 _19_601.FormOp1.Initialize() 於 F:\19-601\19-601\FormOp1.cs: 行 84
+

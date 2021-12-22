@@ -1,0 +1,10 @@
+D:\C#\csHantasScrewDrvier\bin\Debug\csHantasScrewDrvier.dll
+D:\C#\csHantasScrewDrvier\bin\Debug\csHantasScrewDrvier.pdb
+D:\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.csprojResolveAssemblyReference.cache
+D:\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.dll
+D:\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.pdb
+C:\Users\Administrator\Documents\C#\csHantasScrewDrvier\bin\Debug\csHantasScrewDrvier.dll
+C:\Users\Administrator\Documents\C#\csHantasScrewDrvier\bin\Debug\csHantasScrewDrvier.pdb
+C:\Users\Administrator\Documents\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.dll
+C:\Users\Administrator\Documents\C#\csHantasScrewDrvier\obj\Debug\csHantasScrewDrvier.pdb

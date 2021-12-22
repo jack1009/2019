@@ -1,0 +1,4 @@
+10.5.10.103
+6000
+http://10.5.10.152/system/spindle1/controller/data/rundowns.csv
+http://10.5.10.153/system/spindle1/controller/data/rundowns.csv
